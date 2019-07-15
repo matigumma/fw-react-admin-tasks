@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title":"hola manola",
+            "owner": "manola",
+            "description": "lorem lorem",
+            "priority": "low"
+        },
+        {
+            "title": "hola mati",
+            "owner": "mati",
+            "description": "lorem lipsum",
+            "priority": "low"
+        },
+        {
+            "title": "hola juan",
+            "owner": "juan",
+            "description": "lorem lorem",
+            "priority": "medium"
+        }
+    ]
+}
